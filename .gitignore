@@ -10,5 +10,7 @@ target/
 .metals
 .bloop
 
-journal
-snapshots
+journal/
+snapshots/
+
+.bsp
